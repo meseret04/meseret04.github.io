@@ -3,3 +3,10 @@ title: "My Website"
 ---
 
 Hello, world! This is my personal ...
+
+```{r}
+hist(rnorm(1000))
+```
+
+The histogram shows that there is a normal distribution.
+
